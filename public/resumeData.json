@@ -1,0 +1,127 @@
+{
+  "main": {
+    "name": "Riddhi Patel",
+    "occupation": "Full Stack Developer",
+    "description": "I work on every part of the stack",
+    "image": "profile.jpeg",
+    "bio": "Detail-oriented Software Engineer with expertise in banking, renewable energy, and networking domains leading and developing large-scale projects. I enjoy creating comprehensive front-end components and backend APIs, alongside proficient handling of deployment pipelines with DevOps tools. Strong background in developing and contributing to design decisions of projects to achieve higher standards of results for an organization. A leader committed to excellence and a collaborative approach who thrives in a dynamic environment",
+    "contactmessage": "Get in touch with me for any working opportunities.",
+    "email": "riddhik2364@gmail.com",
+    "phone": "+1 7372742145",
+    "address": {
+      "street": "425 Washington Blvd. Apt. 3912",
+      "city": "New York",
+      "state": "New Jersey",
+      "zip": "07310"
+    },
+    "resumedownload": "https://drive.google.com/uc?export=download&id=1deXnfkCg_mAsiCzezftTyW_ekiHlWnAW",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/riddhi-patel-2303/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/riddhipatel23",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Conceptual & Language Proficiency",
+    "education": [
+      {
+        "school": "University of Southern California",
+        "degree": "Master's of Science in Computer Science",
+        "graduated": "April 2023",
+        "description": "Graduated in May 2023"
+      },
+      {
+        "school": "Charotar University of Science and Technology",
+        "degree": "Bachelor's in Computer Engineering",
+        "graduated": "May 2021",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Barclays",
+        "title": "Full Stack Developer",
+        "years": "June 2023 - Present",
+        "description": "Designed and implemented intuitive React and TypeScript interfaces, improving user engagement by 30%. Contributed to taking the DEV CLI pilot along with creating Docker images and pushing to the image registry. Led a low-level analysis, design and development of telemetry implementation for DEV CLI utilizing ESaaS, OpenShift and filebeat to enhance monitoring capabilities. Mentored a team of 4 new joiners, guiding them through technical designs and project details. Led the end-to-end development of Config Hub, a service enabling teams to manage their configuration files, from architecture design to implementation. Architected and developed Scan CLI tool for scanning Docker images, optimizing security and reducing image vulnerabilities."},
+      {
+        "company": "Barclays",
+        "title": "Full Stack Developer Intern",
+        "years": "March 2023 - May 2023",
+        "description": "Developed Barclays Well-Architected (BWA) portal web page in React-Typescript along with playwright integration testing."
+      },
+      {
+        "company": "Cisco",
+        "title": "Technical Graduate Intern",
+        "years": "May 2022 - August 2022",
+        "description": "Developed REST APIs for WebEx Meetings using Java Spring Boot with 95% code coverage. Integrated scalable translation modules, enhancing global user adoption. Applied test-driven development, ensuring robust integration and unit testing. Streamlined API documentation, improving developer onboarding and usability."
+      },
+      {
+        "company": "Gridscape Solutions",
+        "title": "Software Engineer Intern",
+        "years": "December 2020 - May 2021",
+        "description": "Developed a site analysis portal for new solar site projects using Python-Flask; automated 30% of employees' work. Designed Machine Learning model using Random Forest algorithm to return top 5 sites that are already completed and similar to new sites to be implemented based on various parameters. Researched different search algorithms such as Random Forest, Catboost and studied the company’s working to analyze parameters to optimize output by 40%."
+      }
+    ],
+    "skills": [
+      {
+        "name": "GoLang",
+        "level": "100%"
+      },
+      {
+        "name": "Python",
+        "level": "100%"
+      },
+      {
+        "name": "TypeScript",
+        "level": "99%"
+      },
+      {
+        "name": "JAVA",
+        "level": "100%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "99%"
+      },
+      {
+        "name": "Git",
+        "level": "100%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "Gitlab",
+        "level": "90%"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "I had the pleasure of working with Riddhi, she is a very talented and dedicated software engineer who brought not only technical expertise but also a passion for problem-solving and a great deal of kindness to our team. Her critical and creative thinking helped us tackle complex challenges across both frontend and backend systems, playing an integral part in delivering high-quality work efficiently. Riddhi's attention to detail and effective communication with team members were consistently impressive. She demonstrated exceptional leadership as a key member of our Grace Hopper program, where fellow graduates looked to her as both a role model and mentor. One memorable moment was teaching Riddhi React/Redux concepts during her internship. She not only quickly grasped these technologies but applied them to real-world scenarios, creating reference implementations that benefited future projects. Her dedication and commitment were truly inspiring, and I'm grateful for the opportunity to be part of her journey.",
+        "user": "Melvin Almonte, Ex-Barclays"
+      },
+      {
+        "text": "Riddhi is smart, intelligent and hardworking engineer. She has excellent knowledge and creatively thinks to apply it to given problem. She is also self motivated and actively seeks out things to do.",
+        "user": "Bhargav Pandya, Cisco"
+      },
+      {
+        "text": "It has been a joy to work with Riddhi in the field of Machine learning. She is a quick learner, always comes up with innovative ideas to solve problems. She is a highly motivated and hard-working individual. Never shy of taking challenges and responsibilities as well as pushing her limits.",
+        "user": "Mrugendra Rahevar, Assistant Professor at Charotar University"
+      },
+      {
+        "text": "it is hard to come by talent like Ridhi who being a Fresh graduate out of college has keen interest in technology, and greater enthusiasm to learn and implement. She is hard working, tenacious and smart individual. In my personal experience she quickly learnt AWS and implemented a SQL DB in RDS, however she had no previous experience in any cloud technology whatsoever. With minimal guidance she managed to finish the requirement on time. I highly appreciate Ridhi for her efforts and enthusiasm and recommend her for her technical prowess and learning capabilities. Keep up the good work!!!",        
+        "user": "Vaibhav Sahu, Strategic Cloud Engineer at Google"
+      }
+    ]
+  }
+}
